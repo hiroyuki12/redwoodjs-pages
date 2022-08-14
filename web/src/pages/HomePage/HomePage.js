@@ -38,7 +38,7 @@ const HomePage = () => (
       }}
     />
     <section>
-      <h1>Test Welcome to RedwoodJS!</h1>
+      <h1>Welcome to RedwoodJS!</h1>
       <p>
         Find me in <code>./web/src/pages/HomePage/HomePage.js</code>
       </p>
